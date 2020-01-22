@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(236, 231, 226);
+    
+}
+
+.topColor{
+    background-image: linear-gradient(rgb(170, 145, 4), rgb(39, 147, 197));
+    height: 140px;
+    color: antiquewhite;
+    text-align: center;
+    line-height: 70px;
+    font-size: xx-large;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.cover{
+    padding-top: 50px;
+    padding-left: 500px;
+}
+
+ul{
+    list-style-image: linear-gradient(blue, gold);
+}
+
+.fontDiv{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 20px;
+}
+
+/*///////////////////Fiddle with html/css to get logos on page//////////// */
+footer{
+    background-image: linear-gradient(rgb(170, 145, 4), rgb(39, 147, 197));
+    height: 150px;
+    position: static;
+    
+}
+
+.amazon{
+
+    padding-top: 35px;
+    padding-left: 400px;
+}
+
+.good{
+    padding-right: 150px;
+    padding-left: 150px;
+}
